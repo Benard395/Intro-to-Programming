@@ -1,0 +1,8 @@
+countdown = input("How many seconds are left before launch\n->")
+oxygen_tanks = input ("How many oxygen tanks are onboard\n->")
+food_packs = input("How many food packs are onboard\n->")
+water_packs = input("How many water packs are onboard\n->")
+print("Countdwon:" + countdown)
+print("Oxygen Tanks: " + oxygen_tanks)
+print("Food Packs: " + food_packs)
+print("Water Packs: " + water_packs)

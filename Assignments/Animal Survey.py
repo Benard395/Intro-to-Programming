@@ -1,0 +1,8 @@
+favorite_animal = input("What is your favorite animal?")
+sound = input("What sound does your animal make")
+Habitat = input("Where does your favorite animal live")
+color = input ("What color is your favorite animal")
+print("Favorite Animal" + favorite_animal)
+print("Sound" + sound)
+print("habitat" + Habitat)
+print("Color" + color)
